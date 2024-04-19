@@ -1,0 +1,4 @@
+[2024-04-19 21:49:11,336 ]18 root -INFO - This is an info message
+[2024-04-19 21:49:11,336 ]19 root -WARNING - This is a warning message
+[2024-04-19 21:49:11,336 ]20 root -ERROR - This is an error message
+[2024-04-19 21:49:11,336 ]21 root -CRITICAL - This is a critical message

@@ -1,6 +1,8 @@
 
 pandas
 numpy
-seaborn
 matplotlib
--e.
+flask
+seaborn
+sckit-learn
+

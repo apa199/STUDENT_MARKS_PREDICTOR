@@ -1,0 +1,7 @@
+[2024-04-20 00:55:41,144 ]27 root -INFO - Entered the data ingestion method or component
+[2024-04-20 00:55:41,168 ]30 root -INFO - Read the dataset as dataframe
+[2024-04-20 00:55:41,179 ]36 root -INFO - Train test split initiated
+[2024-04-20 00:55:41,217 ]43 root -INFO - Inmgestion of the data iss completed
+[2024-04-20 00:55:41,256 ]64 root -INFO - Read train and test data.
+[2024-04-20 00:55:41,256 ]40 root -INFO - Numerical encoding done.:{numerical_features}
+[2024-04-20 00:55:41,256 ]41 root -INFO - Categorical encoding done.:{categorical_features}
