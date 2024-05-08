@@ -1,3 +1,4 @@
 # STUDENT_MARKS_PREDICTOR
 
 dataset contains:
+gender	race_ethnicity	parental_level_of_education	lunch	test_preparation_course	math_score	reading_score	writing_score
